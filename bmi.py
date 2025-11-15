@@ -6,3 +6,4 @@ print(weight)
 
 bmi=(weight/(height**2))
 print(bmi)
+
